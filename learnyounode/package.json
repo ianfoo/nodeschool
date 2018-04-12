@@ -1,0 +1,26 @@
+{
+  "name": "ianfoo-learnyounode",
+  "version": "0.0.0",
+  "description": "nodeschool learnyounode exercises",
+  "main": "1-hello-world.js",
+  "dependencies": {
+    "bl": "^1.2.2",
+    "through2": "^2.0.3",
+    "through2-map": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ianfoo/nodeschool"
+  },
+  "keywords": [
+    "nodeschool",
+    "learning",
+    "practice"
+  ],
+  "author": "Ian Molee",
+  "license": "ISC"
+}
