@@ -5,6 +5,7 @@
   "main": "1-hello-world.js",
   "dependencies": {
     "bl": "^1.2.2",
+    "learnyounode": "^3.5.10",
     "through2": "^2.0.3",
     "through2-map": "^3.0.0"
   },
