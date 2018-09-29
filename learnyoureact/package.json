@@ -1,0 +1,34 @@
+{
+  "name": "learnyoureact",
+  "version": "1.0.0",
+  "description": "nodeschool.io learnyoureact",
+  "main": "server.js",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-react-views": "^0.10.0",
+    "learnyoureact": "^0.12.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workshopper/learnyoureact.git"
+  },
+  "keywords": [
+    "node",
+    "nodeschool",
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workshopper/learnyoureact/issues"
+  },
+  "homepage": "https://github.com/workshopper/learnyoureact#readme"
+}
