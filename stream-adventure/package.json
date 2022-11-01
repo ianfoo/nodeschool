@@ -8,7 +8,7 @@
     "duplexer2": "^0.1.4",
     "request": "^2.85.0",
     "split2": "^2.2.0",
-    "stream-adventure": "^4.1.1",
+    "stream-adventure": "^4.3.2",
     "stream-combiner": "^0.2.2",
     "tar": "^4.4.1",
     "through2": "^2.0.3",
