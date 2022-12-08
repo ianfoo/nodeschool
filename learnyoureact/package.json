@@ -10,7 +10,7 @@
     "babelify": "^10.0.0",
     "body-parser": "^1.18.3",
     "browserify": "^16.2.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "express-react-views": "^0.10.0",
     "learnyoureact": "^0.12.0",
     "prop-types": "^15.6.2",
